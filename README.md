@@ -2,6 +2,7 @@
 
 Overview
 
+
 This project focuses on testing the Central Limit Theorem using a uniform distribution. The Central Limit Theorem states that the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution, regardless of the original distribution. Here, we generate a sample from a uniform distribution, calculate its mean and variance, and then explore the distribution of sample means and sample variances.
 
 Workflow
