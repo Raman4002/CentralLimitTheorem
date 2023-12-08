@@ -7,31 +7,13 @@ This project focuses on testing the Central Limit Theorem using a uniform distri
 
 Workflow
 
-Generate a Sample from Uniform Distribution:
+TESTING THEORITICAL MEAN, VARIANCE AND SAMPLING DIST SAMPLE MEAN AND VARIANCE FOR UNIFORM DISTRIBUTION
 
 
-Utilize a random number generator to create a sample of data points from a uniform distribution.
-
-
-Calculate Mean and Variance:
-
-
-Distribute into Sets of Uniform Samples:
-
-
-Divide the original sample into multiple sets of uniform samples.
-
-
-Calculate Combined Mean and Combined Variance of Sample Means :
-
-
-For each set of uniform samples, calculate the sample mean.
-
-
-Determine the combined mean of all sample means.
-
-
-Calculate Combined Variance of sample means:
+# FIRST GENERATE A SAMPLE UNIFORM DISTRIBUTION
+# CALCULATE ITS MEAN AND VARIANCE
+# THEN DISTRIBUTE IT INTO SETS OF UNIFORM SAMPLES AND CALCULATE THE SAMPLE MEANS 
+# CALCULATE THE COMBINED MEAN AND COMBINED VARIANCE OF SAMPLE MEANS
 
 
 This file, providing an overview of the project, its workflow, and the purpose of each script.
